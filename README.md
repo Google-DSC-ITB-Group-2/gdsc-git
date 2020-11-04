@@ -9,3 +9,5 @@ Group members:
 - [Amar Fadil](https://github.com/marfgold1)
 - [Daffa Ananda Pratama Resyaly](https://github.com/slarkdarr)
 - [Rizky Ramadhana P. K.](https://github.com/rizkyramadhana26)
+- [Emma​nuella Pramudita Rumanti](https://github.com/amuritna)
+
