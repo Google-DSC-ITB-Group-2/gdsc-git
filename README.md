@@ -7,3 +7,4 @@
 Group members:
 - [Dimas Shidqi Parikesit](https://github.com/dParikesit)
 - [Amar Fadil](https://github.com/marfgold1)
+- [Daffa Ananda Pratama Resyaly](https://github.com/slarkdarr)
