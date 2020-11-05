@@ -10,4 +10,8 @@ Group members:
 - [Daffa Ananda Pratama Resyaly](https://github.com/slarkdarr)
 - [Rizky Ramadhana P. K.](https://github.com/rizkyramadhana26)
 - [Emma​nuella Pramudita Rumanti](https://github.com/amuritna)
-
+- [Farrel Rouw](https://github.com/Farrelmpr)
+- [Taufan Fajarama P. R.](https://github.com/roastland)
+- [Nabilah Erfariani](https://github.com/nabilaherfa)
+- [Muhammad Garebaldhie Er Rahman](https://github.com/IloveNooodles)
+- [Muhammad Faisal Anshory](https://github.com/faisalanshory)
