@@ -10,3 +10,4 @@ Group members:
 - [Daffa Ananda Pratama Resyaly](https://github.com/slarkdarr)
 - [Rizky Ramadhana P. K.](https://github.com/rizkyramadhana26)
 - [Farrel Rouw](https://github.com/Farrelmpr)
+- [Taufan Fajarama P. R.](https://github.com/roastland)
