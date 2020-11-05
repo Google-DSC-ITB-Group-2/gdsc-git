@@ -12,3 +12,4 @@ Group members:
 - [Farrel Rouw](https://github.com/Farrelmpr)
 - [Taufan Fajarama P. R.](https://github.com/roastland)
 - [Nabilah Erfariani](https://github.com/nabilaherfa)
+- [Muhammad Garebaldhie Er Rahman](https://github.com/IloveNooodles)
