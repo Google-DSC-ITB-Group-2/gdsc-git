@@ -11,3 +11,4 @@ Group members:
 - [Rizky Ramadhana P. K.](https://github.com/rizkyramadhana26)
 - [Farrel Rouw](https://github.com/Farrelmpr)
 - [Taufan Fajarama P. R.](https://github.com/roastland)
+- [Nabilah Erfariani](https://github.com/nabilaherfa)
