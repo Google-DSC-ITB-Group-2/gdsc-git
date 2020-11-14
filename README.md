@@ -15,3 +15,4 @@ Group members:
 - [Nabilah Erfariani](https://github.com/nabilaherfa)
 - [Muhammad Garebaldhie Er Rahman](https://github.com/IloveNooodles)
 - [Muhammad Faisal Anshory](https://github.com/faisalanshory)
+- [Ghiffary Rifqialdi](https://github.com/ghiffaryr)
