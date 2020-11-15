@@ -16,3 +16,4 @@ Group members:
 - [Muhammad Garebaldhie Er Rahman](https://github.com/IloveNooodles)
 - [Muhammad Faisal Anshory](https://github.com/faisalanshory)
 - [Ghiffary Rifqialdi](https://github.com/ghiffaryr)
+- [Kadek Surya Mahardika](https://github.com/kadeksuryam)
